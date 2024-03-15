@@ -1,5 +1,4 @@
-This repository contains some tasks from the 'Python Generation' course.
+This repository contains some solutions to assignments from the 'Python Generation' course.
 
-В этом репозитории собраны некоторые задания из курса 'Поколение Python'.
-
+В этом репозитории собраны некоторые решения заданий из курса «Генерация Python».
 ____
