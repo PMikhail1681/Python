@@ -3,7 +3,7 @@
 - [Magic_ball](https://github.com/PMikhail1681/Python/blob/old/Python%20generation%201/magic_ball.py)
 - [Rescure_password_generator](https://github.com/PMikhail1681/Python/blob/old/Python%20generation%201/rescure_password_generator.py)
 - [Caesar_cipher](https://github.com/PMikhail1681/Python/blob/old/Python%20generation%201/caesar_cipher.py)
-- [Word_guessing}(https://github.com/PMikhail1681/Python/blob/old/Python%20generation%201/word_guessing.py)
+- [Word_guessing](https://github.com/PMikhail1681/Python/blob/old/Python%20generation%201/word_guessing.py)
 - [Password verification (beegeek)](https://github.com/PMikhail1681/Python/blob/old/Python%20generation%201/beegeek.py)
 
 ## В этом репозитории собраны некоторые решения заданий из курса «Поколение Python»
